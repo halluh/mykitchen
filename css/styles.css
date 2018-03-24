@@ -1,0 +1,31 @@
+.jumbotron {
+	background-image : url("../img/assets/customers/backgrounds/landing.jpg");
+	background-size: cover;
+	margin: 0% 1% 4% 0%;
+	height:90%;
+}
+.jumbotron p {
+	color: white;
+	font-size: 40px;
+	font-family: serif;
+}
+.container {
+	padding-top: 0%;
+}
+.container p {
+	font-size: 40px;
+	background-color: silver;
+	padding-top: 0%;
+	width:100%;
+}
+.align {
+	padding-left:2%;
+	padding-top:10%;
+	font-family: 'IBM Plex Serif', serif;
+	font-size: 28px;
+
+}
+.col-md-3{
+	padding:0%;
+	margin:0%;
+}
