@@ -1,16 +1,18 @@
 .jumbotron {
 	background-image : url("../img/assets/customers/backgrounds/landing.jpg");
 	background-size: cover;
-	margin: 0% 1% 4% 0%;
-	height:90%;
+	margin: 0% 0% 0% 0%;
+	height:70%;
 }
 .jumbotron p {
 	color: white;
 	font-size: 40px;
 	font-family: serif;
+	margin-bottom: 0px
 }
-.container {
+.container-fluid {
 	padding-top: 0%;
+	margin-top: 0px,
 }
 .container p {
 	font-size: 40px;
@@ -28,4 +30,53 @@
 .col-md-3{
 	padding:0%;
 	margin:0%;
+
+
 }
+
+#hour{
+	
+	background-color: silver;
+	text-align: center;
+	height:15%;
+}
+#time{
+    
+	background-color:coral;
+	text-align: center;
+	margin-bottom: 0px;
+	height:15%;
+}
+#breakfast {
+	background-image: url("../img/assets/foodtop/breakfast.jpg");
+	/*background-size:cover;*/
+	height:30%;
+}
+#lunch {
+	background-image: url("../img/assets/foodtop/lunch.jpg");
+	/*background-size:cover;*/
+	height:30%;
+
+}
+#dinner {
+	background-image: url("../img/assets/foodtop/dinner.jpg");
+	/*background-size:cover;*/
+	height:30%;
+
+
+}	
+
+.cnt2{
+  background-image: url("../img/assets/customers/backgrounds/foodsBg.jpg");
+  height: 60vh;
+  margin: 0% 0% 0% 0%;
+  height:70%;
+
+}
+.col-md-3 h1 {
+	color:white;
+	font-size:40%px;
+}
+.text-center{
+
+}	
