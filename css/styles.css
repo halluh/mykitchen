@@ -2,7 +2,7 @@
 	background-image : url("../img/assets/customers/backgrounds/landing.jpg");
 	background-size: cover;
 	margin: 0% 0% 0% 0%;
-	height:70%;
+	height:80%;
 }
 .jumbotron p {
 	color: white;
@@ -56,6 +56,8 @@
 	background-image: url("../img/assets/foodtop/lunch.jpg");
 	/*background-size:cover;*/
 	height:30%;
+	color:white;
+
 
 }
 #dinner {
@@ -77,6 +79,63 @@
 	color:white;
 	font-size:40%px;
 }
-.text-center{
+.col-md-6 p{
+	font-size: 20px;
 
-}	
+
+}
+ .box {
+ margin:0px;
+ border: 2px solid #F5581B;
+ padding:20px;
+ width: 200px;
+ 
+}
+.box h1 {
+	font-size: 15px;
+	margin: 0% 0% 0% 0%;
+	color:#F5581B;
+	padding-bottom: 1px;
+}
+.span  {
+	style="text-align: right;
+	 padding-right: 100px;
+	 margin-top: 50px;
+}  
+ .box2 {
+ margin:0px;
+ border: 2px solid #F5581B;
+ padding:20px;
+ width: 150px;
+ }
+ .box2 h1 {
+	font-size: 15px;
+	margin: 0% 0% 0% 0%;
+	color:#F5581B;
+	padding-bottom: 1px;
+}
+
+.drinkcol1{
+background-image: url("../img/assets/footerlogos/drink1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 85%;
+margin-top: 30px;
+
+/*margin-left: 20px;*/
+}
+.drinkcol2{
+background-image: url("../img/assets/footerlogos/drink2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 85%;
+margin-top: 30px;
+}
+.cont2 {
+background-image: url("../img/assets/customers/backgrounds/foodsBg.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height :70vh;
+}
+ 
+	
