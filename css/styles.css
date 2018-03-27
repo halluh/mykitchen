@@ -116,26 +116,45 @@
 }
 
 .drinkcol1{
-background-image: url("../img/assets/footerlogos/drink1.jpg");
+background-image: url("../img/assets/drink1.jpg");
 background-repeat: no-repeat;
 background-size: cover;
-height: 85%;
-margin-top: 30px;
+height: 90%;
+margin:0,0,0,0;
+width:40%;
+padding-left: 50px;
 
 /*margin-left: 20px;*/
 }
 .drinkcol2{
-background-image: url("../img/assets/footerlogos/drink2.jpg");
+background-image: url("../img/assets/drink2.jpg");
 background-repeat: no-repeat;
 background-size: cover;
-height: 85%;
-margin-top: 30px;
+height: 90%;
+margin: 0,0,0,0;
+width:40%;
 }
 .cont2 {
 background-image: url("../img/assets/customers/backgrounds/foodsBg.jpg");
 background-repeat: no-repeat;
 background-size: cover;
-height :70vh;
+height :90%;
+}
+.style {
+	text-indent: left;
+	margin-right: 50px;
+	margin-left: : 50px,
+}
+.drinkContent{
+	text-align: right;
+}
+.rightarrow{
+	color: #F15A29;
+	width: 40%;
+	font-weight: bold;
+	padding: 2%;
+	background:#fff;
+	border: 1px solid #F15A29;
 }
  
 	
