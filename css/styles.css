@@ -1,5 +1,5 @@
 .jumbotron {
-	background-image : url("../img/assets/customers/backgrounds/landing.jpg");
+	background-image : url("../img/assets/backgrounds/landing.jpg");
 	background-size: cover;
 	margin: 0% 0% 0% 0%;
 	height:80%;
@@ -16,7 +16,7 @@
 }
 .container p {
 	font-size: 40px;
-	background-color: silver;
+	background-color: white;
 	padding-top: 0%;
 	width:100%;
 }
@@ -157,13 +157,11 @@ height :80%;
 	border: 1px solid #F15A29;
 }
 
-.cont3{
-height :30vh;
-}
+
 .carousel{
-margin-bottom: 50px;
-padding-left: 200px;
-padding-right: 200px;
+margin-bottom: 100px;
+padding-left: 100px;
+padding-right: 100px;
 }
 .carousel-control{
 left:-12px;
@@ -223,6 +221,34 @@ background:green;
 }
 .sub {
 	background-image: url("../img/assets/backgrounds/subscribe.jpg");
+	/*margin-top: 1%;*/
+
+}
+.subContent{
+	margin:10%;
+}
+.btn-default {
+	background: #F15A29;
+	color:white;
+}
+#email {
+	background-color: grey;
+	color:white;
+}
+.email h2{
+	font-size: 3%;
+	padding-bottom: 10px;
+
+}
+.cont4 {
+	background:#F15A29;
+	height:40vh;
+}
+.finale h4 {
+	font-size: 40px;
+	color:white;
+	font-family: sans-serif;
+	padding-top: 40px;
 }
 
 
