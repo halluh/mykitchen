@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anita's kitchen project
 #### Created on, 23.03.2018
 #### By **Halima**
@@ -30,3 +31,7 @@ The site can be viewed from here [Anita's kitchen website](https://halluh.github
 *The site and materials can be accessed by the public freely*
 
 Copyright (c) 2018 **[Halima](https://github.com/halluh)**
+=======
+# mykitchen
+Anita's kitchen
+>>>>>>> e1b1da2af6989e17c71d81f00fed18335fc5f340
